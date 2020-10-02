@@ -1,5 +1,7 @@
 # Replt.it-codigos
+[![Run on Repl.it](https://repl.it/badge/github/amir1226/Replt.it-codigos)]
 
+(https://repl.it/github/amir1226/Replt.it-codigos)
 En este repositorio almaceno códigos que he trabajado en repl.it <br>
 <ol>
 <li>Fibonacci:

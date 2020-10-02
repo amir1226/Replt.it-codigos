@@ -15,5 +15,9 @@ En este repositorio almaceno códigos que he trabajado en repl.it <br>
  <li>
    <a href="https://github.com/amir1226/Replt.it-codigos/blob/master/fibonacci.ipynb" target="_blank"> Múltiplo de un número  </a>
  </li>
+  <li>
+   <a href="https://github.com/amir1226/Replt.it-codigos/blob/master/Ahorcado(Hangman).py" target="_blank"> Juego del ahorcado (Hangman) </a>
+ </li>
 
 </ol>
+

@@ -20,6 +20,10 @@ En este repositorio almaceno códigos que he trabajado en repl.it <br>
   <li>
    <a href="https://github.com/amir1226/Replt.it-codigos/blob/master/Ahorcado(Hangman).py" target="_blank"> Juego del ahorcado (Hangman) </a>
  </li>
+  
+  <li>
+   <a href="https://github.com/amir1226/Replt.it-codigos/blob/master/Ejercicios%20Algortimos%20Recursivos.ipynb" target="_blank"> Funciones Recursivas (Hangman) </a>
+ </li>
 
 </ol>
 
